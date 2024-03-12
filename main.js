@@ -2424,7 +2424,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(exports) {
                   url = url + "\n";
                 }
               }), {
-                text : "".concat(level, "\n\n").concat(url.trimEnd()).concat("\n\n#ўордлі\n\n").concat("https://ololophilolo.github.io/wordle-by/")
+                text : "".concat(level, "\n\n").concat(url.trimEnd()).concat("\n\n#ўордлі\n\n").concat("https://wordle.bielarusajed.gay/")
               };
             }({
               evaluations : self.gameApp.evaluations,
